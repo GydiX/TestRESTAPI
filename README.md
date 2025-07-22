@@ -36,5 +36,4 @@ git commit -m "commit name"
 git status
 
 git push
-
 ```
